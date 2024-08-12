@@ -15,6 +15,8 @@
 ## Steps
    - Initialize Defender for Endpoint environment.
 
+     ![20240811_165836](https://github.com/user-attachments/assets/9780844f-0860-4bfe-9f83-14ba6e6390be)
+
    - Devices were onboarded to Microsoft Defender for Endpoint using an onboarding script.
 
    - Configure roles for use with device groups.
