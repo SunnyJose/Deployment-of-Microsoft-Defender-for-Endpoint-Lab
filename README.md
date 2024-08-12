@@ -23,7 +23,7 @@
 
    - Configure roles for use with device groups.
 
-     
+     ![20240811_165212](https://github.com/user-attachments/assets/430e4da4-652f-4b19-9020-d6b96805ff0a)
 
    - Device groups configuration that allow access control and automation configuration.
 
