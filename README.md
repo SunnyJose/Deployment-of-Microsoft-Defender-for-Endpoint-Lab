@@ -19,6 +19,8 @@
 
    - Devices were onboarded to Microsoft Defender for Endpoint using an onboarding script.
 
+     ![20240811_165258](https://github.com/user-attachments/assets/83953fc1-1eec-44a1-94a4-112e1d2d3876)
+
    - Configure roles for use with device groups.
 
    - Device groups configuration that allow access control and automation configuration.
